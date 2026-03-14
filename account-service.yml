@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/banking_accounts
+    username: banking_user
+    password: banking_pass
+  kafka:
+    bootstrap-servers: localhost:9092
